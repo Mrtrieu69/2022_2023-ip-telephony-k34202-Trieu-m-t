@@ -53,7 +53,7 @@ Date of finished:
 Рисунок 8 – Подключение IP-телефона</br>
 Далее производится конфигурация роутера.
 Вначале настраивается dhcp для автоматической раздачи адресов конечным устройствам, а также загружается прошивка для телефонов (Рис. 9).</br>
-![image](https://user-images.githubusercontent.com/87965299/222952210-7fd0197d-48f5-453f-a5b3-a3ada52f8dc1.png)
+![image](https://user-images.githubusercontent.com/87965299/222952210-7fd0197d-48f5-453f-a5b3-a3ada52f8dc1.png)</br>
 Рисунок 9 – Настройка DHCP для ip-телефонии </br>
 Далее задаются стандартные VoIP-параметры, такие как максимальное количество абонентов (Рис. 10).</br>
 ![image](https://user-images.githubusercontent.com/87965299/222952233-c9b726dc-9eff-4fdf-a985-d3efd4f189c6.png)</br>
