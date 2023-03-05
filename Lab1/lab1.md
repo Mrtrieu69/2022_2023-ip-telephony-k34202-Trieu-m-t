@@ -23,7 +23,7 @@ Date of finished:
 Часть 1
 Задание 1: Собрать схему соединения
 В среде Cisco Packet Tracer была смоделирована сеть следующей конфигурации (Рис. 1).
-![image](https://user-images.githubusercontent.com/87965299/222950816-42f31885-501a-4167-980b-dae8d6fe9441.png)
+![image](https://user-images.githubusercontent.com/87965299/222956714-9ff619bc-0231-4a6f-95b6-8145cb9a4332.png)
 
 Задание 2: Настройка адресов В интерфейсах PC каждому был задан IP-aдрес в пределах 192.168.0.1 - 192.168.0.8 (Рис. 2).
 ![image](https://user-images.githubusercontent.com/87965299/222950843-a1754b97-09ba-49a4-b8cc-6e3285c1938c.png)</br>
