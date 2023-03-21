@@ -23,7 +23,7 @@ Date of finished:
 Часть 1
 Задание 1: Собрать схему соединения
 В среде Cisco Packet Tracer была смоделирована сеть следующей конфигурации (Рис. 1).
-![image](https://user-images.githubusercontent.com/87965299/222950816-42f31885-501a-4167-980b-dae8d6fe9441.png)
+![image](https://user-images.githubusercontent.com/87965299/222956714-9ff619bc-0231-4a6f-95b6-8145cb9a4332.png)
 
 Задание 2: Настройка адресов В интерфейсах PC каждому был задан IP-aдрес в пределах 192.168.0.1 - 192.168.0.8 (Рис. 2).
 ![image](https://user-images.githubusercontent.com/87965299/222950843-a1754b97-09ba-49a4-b8cc-6e3285c1938c.png)</br>
@@ -53,7 +53,7 @@ Date of finished:
 Рисунок 8 – Подключение IP-телефона</br>
 Далее производится конфигурация роутера.
 Вначале настраивается dhcp для автоматической раздачи адресов конечным устройствам, а также загружается прошивка для телефонов (Рис. 9).</br>
-![image](https://user-images.githubusercontent.com/87965299/222952210-7fd0197d-48f5-453f-a5b3-a3ada52f8dc1.png)
+![image](https://user-images.githubusercontent.com/87965299/222952210-7fd0197d-48f5-453f-a5b3-a3ada52f8dc1.png)</br>
 Рисунок 9 – Настройка DHCP для ip-телефонии </br>
 Далее задаются стандартные VoIP-параметры, такие как максимальное количество абонентов (Рис. 10).</br>
 ![image](https://user-images.githubusercontent.com/87965299/222952233-c9b726dc-9eff-4fdf-a985-d3efd4f189c6.png)</br>
