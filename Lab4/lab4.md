@@ -10,7 +10,7 @@ Group: K34202
 
 Author: Trieu Minh Tam
 
-Lab: Lab2
+Lab: Lab4
 
 Date of create: 31.03.2022
 
