@@ -46,7 +46,8 @@ Date of finished:
 ![image](https://user-images.githubusercontent.com/87965299/229059638-99ff83c4-0865-40b5-afea-03dab65ad5e5.png)
 ![image](https://user-images.githubusercontent.com/87965299/229059922-297236cb-1229-4e92-b997-f3c13b773fb7.png)
 
-Проверены вызовы между удаленными IP-телефонами.
+Проверены вызовы между удаленными IP-телефонами и пинги между удаленными хостами.
+![image](https://user-images.githubusercontent.com/87965299/229067955-7540deb9-4564-498b-af02-427f7ae79ca6.png)
 ![image](https://user-images.githubusercontent.com/87965299/229062006-d009d79e-b1d7-41bc-bcae-1c6ce20c632a.png)
 
 Вывод:
